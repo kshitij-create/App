@@ -6,11 +6,7 @@ This is a sample Todo app built with React Native for the sole purpose of learni
 
 • Add a new task to the list
 
-• Mark a task as completed
-
 • Delete a task from the list
-
-• Edit a task in the list
 
 ## Installation
 
@@ -21,9 +17,7 @@ This is a sample Todo app built with React Native for the sole purpose of learni
 ## Usage
 
 1. Add a new task by typing in the input field and pressing the "+" button
-2. Mark a task as completed by tapping on the checkbox next to it
-3. Delete a task by swiping left on the task and tapping the "Delete" button
-4. Edit a task by tapping on the task and making changes in the input field that appears
+2. Delete a task by clicking on the task.
 
 ## Technologies Used
 
